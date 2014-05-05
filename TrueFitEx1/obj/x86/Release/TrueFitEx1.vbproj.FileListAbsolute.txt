@@ -1,0 +1,9 @@
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\bin\Release\TrueFitEx1.exe.config
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\bin\Release\TrueFitEx1.exe
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\bin\Release\TrueFitEx1.pdb
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\bin\Release\TrueFitEx1.xml
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\obj\x86\Release\TrueFitEx1.Resources.resources
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\obj\x86\Release\TrueFitEx1.vbproj.GenerateResource.Cache
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\obj\x86\Release\TrueFitEx1.exe
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\obj\x86\Release\TrueFitEx1.xml
+C:\Users\lvensel\documents\visual studio 2010\Projects\TrueFit\TrueFitEx1\TrueFitEx1\obj\x86\Release\TrueFitEx1.pdb
